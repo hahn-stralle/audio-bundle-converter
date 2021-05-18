@@ -5,4 +5,4 @@
 ## 使い方。
 convert_?.cmdファイルにフォルダ、ファイルをD&Dで音声ファイルを一括変換します。
 ## 音声ファイルの出力先。
-C:\workbench\audio\
+C:\workbench\audio\.?\
