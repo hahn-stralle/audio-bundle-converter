@@ -1,5 +1,4 @@
 @echo off
-chcp 65001 >nul
 setlocal enabledelayedexpansion
 
 rem 入力音声ファイルの対象拡張子一覧です。こちらに書かれなかった拡張子はスルーされ、対象から外れます。
